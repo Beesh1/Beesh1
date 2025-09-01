@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./A_digital_illustration_in_vintage-inspired_design_.png" alt="Backend Engineer Banner" width="100%"/>
+</p>
 # 🚀 Backend Engineer | Python + Go Specialist
 
 > Rapidly scaling Python backend engineer focused on high-performance distributed systems, microservices architecture, and cloud-native development. Building production-ready systems that scale.
