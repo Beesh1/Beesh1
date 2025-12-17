@@ -1,146 +1,41 @@
 <p align="center">
-  <img src="./A_digital_illustration_in_vintage-inspired_design_.png" alt="Backend Engineer Banner" width="100%"/>
+  <img src="./A_digital_illustration_in_vintage-inspired_design_.png" alt="Backend Engineer" width="100%"/>
 </p>
 
-# 🚀 Backend Engineer | Python + Go Specialist
+# Bishoy Sameh Magdy  
+**Backend Software Engineer**
 
-> Rapidly scaling Python backend engineer focused on high-performance distributed systems, microservices architecture, and cloud-native development. Building production-ready systems that scale.
++20 128 932 2244 • bishoysamehmagdy@gmail.com • Cairo, Egypt  
+[LinkedIn](https://www.linkedin.com/in/bishoy-sameh-b98005142/) • [GitHub](https://github.com/Beesh1)
 
-## 🔥 Core Expertise
+### About Me
+Backend Software Engineer with 1.5 years of professional experience building scalable, secure, and production-ready applications in a fast-paced startup environment. Passionate about clean architecture, robust security, and delivering high-impact features quickly.
 
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.primary_languages = ["Python", "Go"]
-        self.architecture_focus = ["Microservices", "Distributed Systems", "Event-Driven Architecture"]
-        self.performance_obsessed = True
-        self.cloud_native = True
-```
+Quick learner currently deepening expertise in Java Spring Boot while maintaining strong Python/FastAPI skills.
 
-### 🐍 Python Mastery
-- **Web Frameworks**: Django, FastAPI, Flask, **Raptor** (custom framework)
-- **Async Programming**: asyncio, aiohttp, celery, concurrent.futures
-- **Microservices**: Service mesh integration, gRPC, REST APIs, GraphQL
-- **Data & ML**: NumPy, Pandas, SQLAlchemy, TensorFlow integration
-- **Testing**: pytest, unittest, mocking, test-driven development
+### Core Skills
+- **Languages**: Python (expert), Java (highly proficient, actively advancing), Go
+- **Frameworks**: FastAPI, Django, Spring Boot (Spring Data JPA, Security)
+- **Databases & Search**: PostgreSQL, Elasticsearch, Qdrant (vector database)
+- **Security & Auth**: OAuth2, JWT, Casbin, Casdoor (contributor), Keycloak
+- **AI/ML Integration**: Image recognition pipelines, LightGlue, tensor operations, vector search
+- **Tools**: Docker, AWS services, Git, Redis caching, async/concurrency optimization, Swagger/OpenAPI
 
-### ⚡ Go Performance Engineering
-- **Concurrency**: Goroutines, channels, sync primitives
-- **Microservices**: gin, echo, high-throughput API development
-- **Infrastructure**: CLI tools, system programming, container orchestration
-- **Networking**: TCP/UDP servers, load balancing, distributed systems
+### Key Achievements
+- Built **prg_app_builder**, an internal FastAPI-based microframework that accelerated development by 8x with reusable modules for CRUD, dependency injection, file handling, multi-tenancy, and payments.
+- Single-handedly designed and implemented a complete IAM and authorization system from scratch using Casbin, Casdoor, OAuth2, and JWT.
+- Contributed to the official [Casdoor Python SDK](https://github.com/casdoor/casdoor-python-sdk) (open-source identity management).
+- Developed a CPU-intensive AI learning platform (Selah El Telmeez) featuring photo-based page matching with LightGlue, Qdrant vector search, Elasticsearch retrieval, and AI answer generation.
+- Delivered production apps including e-commerce platforms, payment integrations (Paymob, Fawry, Telda), booking systems, and ticketing solutions.
+- Built backend services in Java Spring Boot for an EV charging + payment application (REST APIs, payment flows, Spring Data JPA).
 
-## 🏗️ System Architecture & Infrastructure
+### Education
+**Bachelor of Engineering in Mechatronics and Automation Engineering**  
+Ain Shams University • Graduated 2023
 
-### Cloud & DevOps
-- **Container Orchestration**: Docker, Kubernetes, Helm
-- **Cloud Platforms**: AWS (Lambda, ECS, RDS), GCP, Azure
-- **Service Mesh**: Istio, Linkerd, traffic management
-- **CI/CD**: GitHub Actions, Jenkins, automated deployment pipelines
+### Currently
+- Strengthening Spring Boot and Java skills through focused study and side projects
+- Exploring advanced backend patterns and system design
+- Open to backend engineering roles (Python, Java, or polyglot teams)
 
-### Databases & Storage
-- **SQL**: PostgreSQL, MySQL, query optimization, database design
-- **NoSQL**: MongoDB, Redis, Cassandra, document stores
-- **Search**: Elasticsearch, Solr, full-text indexing
-- **Caching**: Redis, Memcached, distributed caching strategies
-
-### Message Queues & Streaming
-- **Event Streaming**: Apache Kafka, RabbitMQ, Apache Pulsar
-- **Real-time**: WebSockets, Server-Sent Events, pub/sub patterns
-- **Async Processing**: Celery, Background job processing
-
-## 🔧 Professional Tools & Observability
-
-### Monitoring & Observability
-- **APM**: Datadog, New Relic, Grafana, Prometheus
-- **Distributed Tracing**: Jaeger, Zipkin, OpenTelemetry
-- **Logging**: ELK Stack, Fluentd, structured logging
-- **Alerting**: PagerDuty, automated incident response
-
-### Security & Authentication
-- **Auth Systems**: OAuth2, JWT, multi-factor authentication
-- **Security**: TLS/SSL, rate limiting, input validation, OWASP compliance
-- **API Security**: Authentication, authorization, API gateways
-
-### Development & Productivity
-- **Version Control**: Git, advanced workflows, code review processes
-- **API Development**: OpenAPI/Swagger, Postman, automated testing
-- **Code Quality**: Black, pylint, golangci-lint, static analysis
-- **Documentation**: Technical writing, API documentation, system design docs
-
-## 🚀 Advanced Backend Capabilities
-
-### Distributed Systems
-- **Event-Driven Architecture**: Domain events, CQRS, event sourcing
-- **Microservices Patterns**: Circuit breakers, bulkhead isolation, retries
-- **Data Consistency**: Distributed transactions, eventual consistency
-- **Scalability**: Horizontal scaling, load balancing, performance tuning
-
-### High-Performance Systems
-- **Concurrency**: Multi-threading, async programming, parallel processing
-- **Optimization**: Profiling, memory management, algorithmic efficiency
-- **Caching Strategies**: Multi-layer caching, cache invalidation, CDNs
-- **Database Performance**: Query optimization, indexing, connection pooling
-
-### Modern Backend Projects
-- **Real-time Chat Systems**: WebSocket handling, message queuing, scaling
-- **Search Engines**: Indexing strategies, full-text search, performance optimization
-- **File Storage Systems**: Distributed storage, redundancy, fault tolerance
-- **Authentication Services**: OAuth2 flows, session management, security best practices
-- **GraphQL APIs**: Schema design, query optimization, federation
-- **Web Crawlers**: Distributed crawling, rate limiting, content processing
-
-## 🎯 System Design Approach
-
-```go
-// My approach to building scalable backend systems
-func BuildSystem() SystemArchitecture {
-    return SystemArchitecture{
-        Principles: []string{
-            "Microservices for modularity",
-            "Event-driven for scalability", 
-            "Observability-first design",
-            "Performance by default",
-            "Security in depth",
-        },
-        Tools: GetBestToolsForJob(),
-        Mindset: "Build for scale, optimize for team velocity",
-    }
-}
-```
-
-### Design Philosophy
-- **Scalability First**: Design systems that can grow from prototype to production
-- **Observability Built-in**: Metrics, logging, and tracing from day one
-- **Performance Minded**: Profile early, optimize strategically, measure everything
-- **Team Velocity**: Choose technologies that enhance developer productivity
-- **Resilience**: Build systems that gracefully handle failures
-
-## 📊 Current Focus Areas
-
-- **🔥 Microservices Architecture**: Building production-grade distributed systems
-- **⚡ Performance Engineering**: Go-based high-throughput services  
-- **🧠 System Design**: Learning enterprise-scale architecture patterns
-- **☁️ Cloud-Native Development**: Kubernetes, serverless, container orchestration
-- **📈 Observability**: Implementing comprehensive monitoring and alerting
-
-## 🌟 Professional Mindset
-
-> *"I have a lot to prove and a lot to learn, especially in system design and thinking like a professional engineer. Every project is an opportunity to level up my technical depth and architectural thinking."*
-
-- **Growth-Oriented**: Constantly learning new technologies and patterns
-- **Problem Solver**: Break down complex systems into manageable components  
-- **Performance Focused**: Measure, profile, and optimize for real-world scale
-- **Team Player**: Code reviews, knowledge sharing, mentoring opportunities
-- **Production Ready**: Write code that survives contact with users
-
----
-
-### 💡 Let's Build Something Amazing Together
-I'm passionate about backend engineering and always excited to discuss system architecture, performance optimization, or collaborate on challenging technical problems. Whether it's designing microservices, optimizing database queries, or building distributed systems that scale, I bring enthusiasm and a commitment to engineering excellence.
-
-**Currently open to backend engineering opportunities where I can contribute to high-scale systems and continue growing as a professional engineer.**
-
----
-
-*Building the backend systems that power tomorrow's applications* 🚀
+*Always excited to work on challenging problems and build reliable systems.* 🚀
